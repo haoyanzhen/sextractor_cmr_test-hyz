@@ -1,0 +1,6 @@
+default.conv    小的锥形函数（快）
+gauss.conv      高斯函数（半高全宽从1.5-5像素）
+tophat.conv     “top-cat”函数，用于低表面亮度的展源（阈值需要非常低）
+mexhat.conv     “wavelets”产生一个带通滤波，FWHMs用于非常密集的星场，或者\
+                星云附近（可能需要一个很高的阈值）
+block.conv      
