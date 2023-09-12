@@ -1,0 +1,8 @@
+NUMBER                   Running object number                                    
+ID_PARENT                Parent ID (before deblending)                            
+EXT_NUMBER               FITS extension number                                    
+XWIN_IMAGE               Windowed position estimate along x                        [pixel]
+YWIN_IMAGE               Windowed position estimate along y                        [pixel]
+AWIN_IMAGE               Windowed profile RMS along major axis                     [pixel]
+BWIN_IMAGE               Windowed profile RMS along minor axis                     [pixel]
+THETAWIN_IMAGE           Windowed position angle (CCW/x)                           [deg]
